@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T14:52:06.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="BlPQbDfMCzYkAmrswyIL" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T14:54:26.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wF0O_rff3Z8UnCHDNZ7Q" version="16.2.4" type="github">
   <diagram id="F6gwLc83_imbYbFAOfWC" name="Page-1">
     <mxGraphModel dx="1182" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="LwlaiK6x1HRkzKrDF9eZ-2" value="Hello, develop branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LwlaiK6x1HRkzKrDF9eZ-3" value="New default branch?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
